@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+
+  <AddIn Type="Command">
+	<Text>RevitAddinBootCamp_Module01_Skills - Module01Challenge</Text>
+	<Description>Some description for Module01Challenge</Description>
+	<Assembly>RevitAddinBootCamp_Module01_Skills.dll</Assembly>
+    <FullClassName>RevitAddinBootCamp_Module01_Skills.Module01Challenge</FullClassName>
+	<ClientId>80E80E9C-12DE-4CF6-B814-B71B8363ECD5</ClientId>
+	<VendorId>com.YOUR COMPANY NAME</VendorId>
+	<VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>	
+  <AddIn Type="Command">
+    <Text>RevitAddinBootCamp_Module01_Skills - Command 1</Text>
+    <Description>Some description for RevitAddinBootCamp_Module01_Skills</Description>
+    <Assembly>RevitAddinBootCamp_Module01_Skills.dll</Assembly>
+    <FullClassName>RevitAddinBootCamp_Module01_Skills.Command1</FullClassName>
+    <ClientId>f3411e13-1191-4e56-8a96-a4b0383c3eda</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>RevitAddinBootCamp_Module01_Skills - Command 2</Text>
+    <Description>Some description for RevitAddinBootCamp_Module01_Skills</Description>
+    <Assembly>RevitAddinBootCamp_Module01_Skills.dll</Assembly>
+    <FullClassName>RevitAddinBootCamp_Module01_Skills.Command2</FullClassName>
+    <ClientId>4811433c-b42a-446f-a112-a113ab394c13</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>RevitAddinBootCamp_Module01_Skills</Name>
+    <Assembly>RevitAddinBootCamp_Module01_Skills.dll</Assembly>
+    <FullClassName>RevitAddinBootCamp_Module01_Skills.App</FullClassName>
+    <ClientId>21ca5b60-ec52-49e5-8523-c818d810f4d1</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
